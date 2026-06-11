@@ -1,0 +1,7 @@
+Flask
+PyPDF2
+pytesseract
+Pillow
+fitz
+google.generativeai
+pandas
